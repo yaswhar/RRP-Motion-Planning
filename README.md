@@ -1,2 +1,3 @@
 # RRP-Motion-Planning
-Robotics HW 5
+
+Motion Plannig for RRP robot.
